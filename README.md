@@ -3,4 +3,4 @@
 
 Using [these data](http://www.fcc.gov/encyclopedia/fm-service-contour-data-points) from the FCC, trying to build a contour map for the US radio stations.
 
-![test-contour]()
+![test-contour](https://raw.githubusercontent.com/auremoser/radio-signal/master/img/test.png)
